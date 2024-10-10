@@ -14,12 +14,7 @@ A simple and interactive Quiz App built using HTML, CSS, and JavaScript. The app
 ├── index.html               # Main HTML file
 ├── styles.css               # CSS file for styling
 ├── script.js                # JavaScript file for quiz logic
-
 ```
-
-- **index.html**: Contains the structure of the quiz app.
-- **styles.css**: Includes the styling for the quiz elements.
-- **script.js**: Handles the quiz logic, including question handling and score calculation.
 
 ## How It Works
 
@@ -28,12 +23,6 @@ A simple and interactive Quiz App built using HTML, CSS, and JavaScript. The app
 3. The selected answer is marked as green if correct and red if incorrect.
 4. After answering a question, the user can click the **Next** button to proceed.
 5. At the end of the quiz, the total score is displayed with the option to restart.
-
-## Technologies Used
-
-- **HTML**: Provides the structure of the quiz interface.
-- **CSS**: Adds styling to create a visually appealing design.
-- **JavaScript**: Implements quiz logic, score calculation, and interactivity.
 
 ## Future Enhancements
 
