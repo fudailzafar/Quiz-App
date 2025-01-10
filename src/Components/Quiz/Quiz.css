@@ -60,3 +60,14 @@
   background: #ffebeb;
   border-color: #ff4a4a;
 }
+
+@media (max-width: 1024px) {
+  .container {
+    width: 400px;
+    margin-top: 50px;
+  }
+
+  .container h2 {
+    font-size: 20px;
+  }
+}
